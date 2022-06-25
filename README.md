@@ -1,5 +1,6 @@
-# Desmatamento-Amaz-nia-Legal-Final
-Projeto final
+# Desmatamento Amazônia Legal
+Proje final
+
 ![Anual 2](https://user-images.githubusercontent.com/95706923/175751660-d2ab5962-06f6-409b-8f29-79e988395a1a.JPG)
 ![Anual](https://user-images.githubusercontent.com/95706923/175751662-eebf9043-525f-40ab-bac7-90adcb963f5d.JPG)
 ![Conclusão](https://user-images.githubusercontent.com/95706923/175751663-3b0be73e-b83c-4e23-ba05-4b0406424a94.JPG)
